@@ -69,6 +69,10 @@ header{
     border-radius: 10px;
     margin-right: 20px;
 }
+.banner-content button i,
+.banner-content button .icon {
+    margin-right: 8px;
+}
 .banner .profile-pic{
     width: 300px;
     height: 300px;
@@ -182,9 +186,6 @@ footer input[type="text"], footer input[type="email"], footer textarea{
     display: block;
     width: 100%;
     margin-top: 24px;
-}
-footer a .insta{
-    margin-left: 20px;
 }
 footer button{
     background-color: black;

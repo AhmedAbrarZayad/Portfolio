@@ -299,4 +299,9 @@ footer button{
         flex-direction: column;
         gap: 15px;
     }
+    header{
+        height: auto;
+        min-height: 100vh;
+        padding-bottom: 30px;
+    }
 }

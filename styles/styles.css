@@ -1,3 +1,5 @@
+
+
 #name{
     list-style: none;
     font-family: 'Open Sans', sans-serif;
@@ -88,8 +90,9 @@ header{
 main{
     max-width: 1140px;
     margin: 0 auto;
-    margin-bottom: 50px;
+    margin-bottom: 0;
     position: relative;
+    padding-bottom: 50px;
 }
 .card{
     background-color: white;
@@ -177,7 +180,7 @@ main{
     padding: 20px;
 }
 footer{
-    margin: 0;
+    margin-top: 130px;
     display: flex;
     background-color: aliceblue;
     padding: 130px;
